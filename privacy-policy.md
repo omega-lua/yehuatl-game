@@ -1,7 +1,0 @@
-Effective Date: 26th October 2023.
-
-The game Yehuatl does not store any personally identifiable information or any other relevant user data.
-
-However, the game collects and stores the names of input devices you use while playing the game.
-This information is used exclusively for enhancing your gaming experience and customizing input settings.
-It is important to note that we do not link this device information to any personal data.
